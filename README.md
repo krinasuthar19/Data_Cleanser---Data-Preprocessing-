@@ -5,7 +5,8 @@
 This project focuses on cleaning and preparing a healthcare dataset for machine learning. The dataset contains patient demographic details, medical attributes, and a target variable indicating disease risk. The main objective is to handle missing values and outliers using various techniques and compare their effectiveness.
 
 ---
-
+### Video Explaination:
+https://drive.google.com/file/d/1A8pgGUuM3BWtCp4gqAYBRWEwOmooGNIA/view?usp=drive_link
 ## Dataset Description
 
 The dataset includes the following features:
